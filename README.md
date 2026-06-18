@@ -28,37 +28,35 @@
 
 
 <p align="center">
-  <a href="#-português">🇧🇷 Português</a> •
-
+  <a href="#-português">
+    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="30" alt="Português"/>
+  </a>
 </p>
 
----
 
-# 🇧🇷 Português
 
 🧠 Sobre Mim
-Sou uma Desenvolvedora Front-End focada em construir interfaces modernas, funcionais e altamente responsivas. Com formação técnica em Web Development, minha atuação é voltada para a criação de experiências digitais que unem performance técnica e um design intuitivo.
+- Sou uma Desenvolvedora Front-End focada em construir interfaces modernas, funcionais e altamente responsivas. Com formação técnica em Web Development, minha atuação é voltada para a criação de experiências digitais que unem performance técnica e um design intuitivo.
 
-Tenho forte base em tecnologias como React, JavaScript (ES6+), HTML5 e CSS3, o que me permite transformar protótipos em aplicações reais, seguras e preparadas para o mercado.
+- Tenho forte base em tecnologias como React, JavaScript (ES6+), HTML5 e CSS3, o que me permite transformar protótipos em aplicações reais, seguras e preparadas para o mercado.
 
-Mais do que codificar, eu projeto interfaces estratégicas que entregam valor real ao usuário e resultados sólidos para o negócio.
+- Mais do que codificar, eu projeto interfaces estratégicas que entregam valor real ao usuário e resultados sólidos para o negócio.
 
 🚀 O que eu construo
 Interfaces ricas e responsivas utilizando React.js
 
-Aplicações web focadas em UX/UI e acessibilidade
+- Aplicações web focadas em UX/UI e acessibilidade
 
-Dashboards e sistemas administrativos dinâmicos
+- Dashboards e sistemas administrativos dinâmicos
 
-Landing pages otimizadas para conversão e performance
+- Landing pages otimizadas para conversão e performance
 
-Integrações com APIs para sistemas em tempo real
+- Integrações com APIs para sistemas em tempo real
 
-Código limpo, escalável e de fácil manutenção
+- Código limpo, escalável e de fácil manutenção
 
 
 ----
-## 🧩 Stack Principal
 
 ## 🧩 Stack Principal
 
@@ -77,17 +75,17 @@ MySQL · Firebase
 🔹 Luxe Seoul Link
 Projeto com foco em design premium e experiência do usuário, demonstrando sua habilidade em interfaces modernas.
 
-Foco: UI/UX · Web Development · Frontend
+- Foco: UI/UX · Web Development · Frontend
 
 🔹 VR Automotive Link
 Interface focada no setor automotivo, com design responsivo e visual arrojado.
 
-Foco: Responsividade · UI Developer · Front-End
+- Foco: Responsividade · UI Developer · Front-End
 
 🔹 Lumem Login Link
 Sistema de autenticação com foco em usabilidade e design limpo.
 
-Foco: Formulários · Autenticação · UI/UX
+- Foco: Formulários · Autenticação · UI/UX
 
 ---
 
