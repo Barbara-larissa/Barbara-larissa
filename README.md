@@ -4,260 +4,157 @@
 ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Filipi%20Moraes&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=54&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20LLM%20%E2%80%A2%20RAG%20%E2%80%A2%20AI%20Agents&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Bárbara%20Larissa&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=54&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlign=50&descAlignY=62&animation=twinkling&color=0:000000,50:FF69B4,100:FF1493" alt="Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=980&lines=Building+production-ready+AI+systems+with+LLMs%2C+RAG+and+Agents.;From+Java+backend+architecture+to+real-world+GenAI+products.;AI+Engineer+focused+on+shipping%2C+not+just+prototyping." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=980&lines=Criando+experiências+web+modernas+e+responsivas.;Desenvolvimento+de+interfaces+focadas+em+performance+e+UX.;Desenvolvedora+Front-End+focada+em+acessibilidade+e+código+limpo." alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/filipimoraes">
-    <img src="https://img.shields.io/badge/LinkedIn-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/barbara-larissa">
+    <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:filipiwms@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:laribdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://filipimoraes.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://developer-portfolio-fawn-zeta.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-B65EC2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/FilipiWanderley">
-    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Barbara-larissa">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FilipiWanderley&label=Profile%20Views&color=FF3B30" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/FilipiWanderley?label=Followers&color=9B111E" alt="Followers"/>
-</p>
 
 <p align="center">
   <a href="#-português">🇧🇷 Português</a> •
-  <a href="#-english">🇺🇸 English</a>
+
 </p>
 
 ---
 
 # 🇧🇷 Português
 
-## 🧠 Sobre Mim
+🧠 Sobre Mim
+Sou uma Desenvolvedora Front-End focada em construir interfaces modernas, funcionais e altamente responsivas. Com formação técnica em Web Development, minha atuação é voltada para a criação de experiências digitais que unem performance técnica e um design intuitivo.
 
-Sou um **AI Engineer** focado em construir sistemas de IA prontos para produção com **LLMs, RAG, agentes e aplicações GenAI**.
+Tenho forte base em tecnologias como React, JavaScript (ES6+), HTML5 e CSS3, o que me permite transformar protótipos em aplicações reais, seguras e preparadas para o mercado.
 
-Atuo desenvolvendo soluções completas — desde **pipelines de IA em Python** até **APIs robustas e escaláveis** — integrando modelos de linguagem em produtos reais.
+Mais do que codificar, eu projeto interfaces estratégicas que entregam valor real ao usuário e resultados sólidos para o negócio.
 
-Tenho forte base em **engenharia de software**, o que me permite construir sistemas **seguros, performáticos e preparados para ambientes de produção**.
+🚀 O que eu construo
+Interfaces ricas e responsivas utilizando React.js
 
-Mais do que usar IA, eu **projeto e entrego sistemas inteligentes que funcionam no mundo real**.
----
+Aplicações web focadas em UX/UI e acessibilidade
 
-## 🚀 O que eu construo
+Dashboards e sistemas administrativos dinâmicos
 
-- Aplicações com LLMs (chat, copilots, assistentes)
-- Sistemas RAG (ingestão, embeddings, recuperação, respostas contextualizadas)
-- Agentes de IA e workflows com ferramentas
-- Plataformas SaaS com recursos de IA
-- APIs backend para produtos de IA
-- Integrações enterprise com IA
+Landing pages otimizadas para conversão e performance
 
----
+Integrações com APIs para sistemas em tempo real
+
+Código limpo, escalável e de fácil manutenção
+
+
+----
+## 🧩 Stack Principal
 
 ## 🧩 Stack Principal
 
-### 🤖 IA / GenAI
-OpenAI · Claude · LangChain · LangGraph  
-RAG · AI Agents · Embeddings · Vector DB  
-Prompt Engineering · MCP  
+### 🌐 Frontend & Backend
+HTML5 · CSS3 · JavaScript · React · TailwindCSS · PHP
 
-### ⚙️ Backend
-Java · Spring Boot · Python · FastAPI  
-Microservices · REST APIs · JWT · IAM  
-
-### 🎨 Frontend
-React · Next.js · TypeScript  
-
-### ☁️ Cloud / DevOps
-AWS · Azure · Docker · CI/CD  
-PostgreSQL · Vector DB  
+### 🗄️ Banco de Dados & Cloud
+MySQL · Firebase
 
 ---
 
+
+
 ## 🧠 Projetos em Destaque
 
-### 🔹 [RepoLaunch-AI](https://github.com/FilipiWanderley/RepoLaunch-AI)
-Plataforma com IA que transforma ideias, notas e repositórios em entregáveis estruturados usando workflows com LLMs.  
-**Foco:** GenAI · Prompt workflows · Produto com IA
+🔹 Luxe Seoul Link
+Projeto com foco em design premium e experiência do usuário, demonstrando sua habilidade em interfaces modernas.
 
-### 🔹 [BoaFormaAI](https://github.com/FilipiWanderley/BoaFormaAI)
-Plataforma fitness com IA usando FastAPI + React, chat com IA, autenticação e estratégias de resiliência.  
-**Foco:** Aplicação de IA · FastAPI · Produção
+Foco: UI/UX · Web Development · Frontend
 
-### 🔹 [Nexus](https://github.com/FilipiWanderley/Nexus)
-SaaS com IA para otimização de currículo com análise baseada em descrição de vaga e fluxo com LLM.  
-**Foco:** AI SaaS · LLM application · Produto
+🔹 VR Automotive Link
+Interface focada no setor automotivo, com design responsivo e visual arrojado.
 
-### 🔹 [Plataforma de Entrega de Webhooks](https://github.com/FilipiWanderley/-Plataforma-de-entrega-de-webhooks)
-Sistema multi-tenant confiável com retry, DLQ, observabilidade e segurança.  
-**Foco:** Backend engineering · Confiabilidade · Produção
+Foco: Responsividade · UI Developer · Front-End
+
+🔹 Lumem Login Link
+Sistema de autenticação com foco em usabilidade e design limpo.
+
+Foco: Formulários · Autenticação · UI/UX
 
 ---
 
 ## 📈 Foco Atual
 
-- Sistemas com LLM prontos para produção
-- Otimização de RAG
-- Agentes de IA e workflows
-- Integração entre IA e backend
-- Recursos de IA para produtos SaaS
+- Desenvolvimento de interfaces performáticas com foco em experiência do usuário (UX).
+
+- Integração de APIs em aplicações dinâmicas e sistemas administrativos.
+
+- Arquitetura de componentes reutilizáveis para escalabilidade de projetos Front-End.
+
+- Aprimoramento de design responsivo e acessibilidade para interfaces modernas.
+
+- Construção de sistemas funcionais que entregam valor direto para o negócio.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FilipiWanderley&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipiWanderley&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Barbara-larissa&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbara-larissa&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
-
 ---
 
 ## 🎯 Aberto a Oportunidades
 
-- AI Engineer
-- GenAI Engineer
-- Software Engineer - AI
-- LLM Engineer
+Front-End Developer
 
-🌍 Remoto / Global
+UI Developer
+
+Web Developer
+
+Junior Front-End Developer
+
+🌍 Remoto / Brasil 
 
 ---
 
 ## 💬 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/filipimoraes">
-    <img src="https://img.shields.io/badge/LinkedIn-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/barbara-larissa">
+    <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:filipiwms@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <!-- Email -->
+  <a href="mailto:laribdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
-<p align="center">
-  <b>Construindo sistemas de IA que realmente chegam à produção.</b>
-</p>
-
----
-
-# 🇺🇸 English
-
-## 🧠 About Me
-
-I’m an **AI Engineer** focused on building **production-ready AI systems** using **LLMs, RAG, agents, and GenAI applications**.
-
-I develop **end-to-end solutions** — from **Python-based AI pipelines** to **scalable backend APIs** — integrating language models into real-world products.
-
-With a strong background in **software engineering**, I build systems that are **secure, performant, and ready for production environments**.
-
-More than using AI, I **design and deliver intelligent systems that actually work in the real world**.
----
-
-## 🚀 What I Build
-
-- LLM applications (chat, copilots, assistants)
-- RAG systems (ingestion, embeddings, retrieval, grounded answers)
-- AI agents and tool-based workflows
-- SaaS platforms with AI features
-- Backend APIs for AI products
-- Enterprise AI integrations
-
----
-
-## 🧩 Core Stack
-
-### 🤖 AI / GenAI
-OpenAI · Claude · LangChain · LangGraph  
-RAG · AI Agents · Embeddings · Vector DB  
-Prompt Engineering · MCP  
-
-### ⚙️ Backend
-Java · Spring Boot · Python · FastAPI  
-Microservices · REST APIs · JWT · IAM  
-
-### 🎨 Frontend
-React · Next.js · TypeScript  
-
-### ☁️ Cloud / DevOps
-AWS · Azure · Docker · CI/CD  
-PostgreSQL · Vector DB  
-
----
-
-## 🧠 Featured Projects
-
-### 🔹 [RepoLaunch-AI](https://github.com/FilipiWanderley/RepoLaunch-AI)
-AI platform that transforms ideas, notes, and repositories into structured deliverables using LLM workflows.  
-**Focus:** GenAI · Prompt workflows · AI product
-
-### 🔹 [BoaFormaAI](https://github.com/FilipiWanderley/BoaFormaAI)
-AI-powered fitness platform built with FastAPI + React, including AI chat, authentication, and resilience strategies.  
-**Focus:** AI application · FastAPI · Production-ready design
-
-### 🔹 [Nexus](https://github.com/FilipiWanderley/Nexus)
-AI SaaS for resume optimization using job description analysis and LLM-driven workflows.  
-**Focus:** AI SaaS · LLM application · Product
-
-### 🔹 [Webhook Delivery Platform](https://github.com/FilipiWanderley/-Plataforma-de-entrega-de-webhooks)
-Reliable multi-tenant webhook system with retry, DLQ, observability, and security.  
-**Focus:** Backend engineering · Reliability · Production systems
-
----
-
-## 📈 Current Focus
-
-- Production-ready LLM systems
-- RAG optimization
-- AI agents and workflows
-- AI + backend integration
-- AI features for SaaS products
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FilipiWanderley&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipiWanderley&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-## 🎯 Open to Opportunities
-
-- AI Engineer
-- GenAI Engineer
-- Software Engineer - AI
-- LLM Engineer
-
-🌍 Remote / Global
-
----
-
-## 💬 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/filipimoraes">
-    <img src="https://img.shields.io/badge/LinkedIn-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:filipiwms@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <!-- WhatsApp -->
+  <a href="https://wa.me/5543996818242">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
+
+
+---
+
+
+
+
 <p align="center">
-  <b>Building AI systems that actually ship to production.</b>
+  <b>Construindo o futuro da web com foco em performance e experiência.</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Build%20AI%20That%20Ships&fontColor=FFFFFF&fontSize=30&color=0:0B1220,50:9B111E,100:FF3B30" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construindo%20o%20Futuro%20da%20Web&fontColor=FFFFFF&fontSize=30&color=0:000000,50:FF69B4,100:FF1493" alt="Footer Banner"/>
 </p>
