@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=980&lines=Criando+experiências+web+modernas+e+responsivas.;Desenvolvimento+de+interfaces+focadas+em+performance+e+UX.;Desenvolvedora+Front-End+focada+em+acessibilidade+e+código+limpo." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=18&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=980&lines=Criando+experiências+web+modernas+e+responsivas.;Desenvolvimento+de+interfaces+focadas+em+performance+e+UX.;Desenvolvedora+Front-End+focada+em+acessibilidade+e+código+limpo." alt="Typing SVG"/>
 </p>
 
 <p align="center">
