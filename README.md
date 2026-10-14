@@ -57,15 +57,15 @@ Busco uma oportunidade como **Desenvolvedora Front-End Júnior**, na qual possa 
 
 ### 🌐 Front-end
 
-HTML5 · CSS3 · JavaScript · React · Vite · CSS Modules · Tailwind CSS
+HTML5 · CSS3 · JavaScript · TypeScript · React · Vite · CSS Modules · Tailwind CSS
 
-### 🔌 Integrações
+### 🔌 APIs & Integrações
 
-APIs REST · LocalStorage · WhatsApp · Mercado Pago · ViaCEP
+APIs REST · Webhooks · LocalStorage · WhatsApp · Mercado Pago · ViaCEP
 
 ### 🗄️ Back-end & Banco de Dados
 
-PHP · MySQL  · Supabase
+Node.js · Express · PHP · MySQL · Firebase · Supabase
 
 ### 🛠️ Ferramentas
 
@@ -93,12 +93,15 @@ Aplicação desenvolvida com React e CSS Modules para apresentar projetos e habi
 
 ### 🔹 Sabor Real — Sistema de Delivery
 
-Sistema de delivery desenvolvido com React, TypeScript, Node.js e Express.
+Sistema de delivery desenvolvido com React, TypeScript, Node.js e Express, com fluxo de compra e pagamento integrado ao site.
 
-* Integração com Mercado Pago.
-* Consulta de endereços com ViaCEP.
-* Envio de pedidos pelo WhatsApp.
-* Painel administrativo.
+* Compra e finalização de pedidos diretamente pelo site.
+* Integração com Mercado Pago para processamento de pagamentos.
+* Webhook para recebimento de notificações de pagamento.
+* Painel administrativo para gerenciamento de pedidos.
+* Envio de atualizações sobre o status dos pedidos pelo WhatsApp.
+* Integração com ViaCEP para consulta de endereços.
+
 
 ---
 
