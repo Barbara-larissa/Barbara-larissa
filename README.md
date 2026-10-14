@@ -1,18 +1,18 @@
 <!-- =========================================================
-     FILIPI MORAES • AI ENGINEER GITHUB README
-     PT-BR + EN • GitHub Safe Version
+     BARBARA LARISSA • FRONT-END DEVELOPER
+     PT-BR • GitHub README
 ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Bárbara%20Larissa&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=54&desc=Front-End%20Developer%20%7C%20UI%2FUX%20&descAlign=50&descAlignY=62&animation=twinkling&color=0:000000,50:FF69B4,100:FF1493" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Bárbara%20Larissa&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=54&desc=Front-End%20Developer%20%7C%20React%20%7C%20UI%2FUX&descAlign=50&descAlignY=62&animation=twinkling&color=0:000000,50:FF69B4,100:FF1493" alt="Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=18&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=980&lines=Criando+experiências+web+modernas+e+responsivas.;Desenvolvimento+de+interfaces+focadas+em+performance+e+UX.;Desenvolvedora+Front-End+focada+em+acessibilidade+e+código+limpo." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=18&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=980&lines=Criando+experiências+web+modernas+e+responsivas.;Desenvolvimento+de+interfaces+com+React+e+JavaScript.;Transformando+ideias+em+aplicações+web+funcionais." alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/barbara-larissa">
+  <a href="https://www.linkedin.com/in/barbara-larissa/">
     <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:laribdev@gmail.com">
@@ -26,80 +26,108 @@
   </a>
 </p>
 
-
 <p align="center">
-  <a href="#-português">
+  <a href="#-sobre-mim">
     <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="30" alt="Português"/>
   </a>
 </p>
 
+---
 
+## 🧠 Sobre Mim
 
-🧠 Sobre Mim
-- Sou uma Desenvolvedora Front-End focada em construir interfaces modernas, funcionais e altamente responsivas. Com formação técnica em Web Development, minha atuação é voltada para a criação de experiências digitais que unem performance técnica e um design intuitivo.
+Sou Desenvolvedora Front-End em formação, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora freelancer. Tenho experiência prática no desenvolvimento e na publicação de projetos web responsivos, criando interfaces funcionais com foco em usabilidade e experiência do usuário.
 
-- Tenho forte base em tecnologias como React, JavaScript (ES6+), HTML5 e CSS3, o que me permite transformar protótipos em aplicações reais, seguras e preparadas para o mercado.
+Trabalho principalmente com JavaScript, React, HTML5 e CSS3, utilizando componentização, consumo de APIs e integração com serviços externos. Também tenho experiência com PHP, MySQL, Firebase e Supabase.
 
-- Mais do que codificar, eu projeto interfaces estratégicas que entregam valor real ao usuário e resultados sólidos para o negócio.
+Busco uma oportunidade como **Desenvolvedora Front-End Júnior**, na qual possa contribuir com projetos reais e continuar evoluindo profissionalmente.
 
-🚀 O que eu construo
-Interfaces ricas e responsivas utilizando React.js
+## 🚀 O que eu construo
 
-- Aplicações web focadas em UX/UI e acessibilidade
-
-- Dashboards e sistemas administrativos dinâmicos
-
-- Landing pages otimizadas para conversão e performance
-
-- Integrações com APIs para sistemas em tempo real
-
-- Código limpo, escalável e de fácil manutenção
-
-
-----
-
-## 🧩 Stack Principal
-
-### 🌐 Frontend & Backend
-HTML5 · CSS3 · JavaScript · React · TailwindCSS · PHP
-
-### 🗄️ Banco de Dados & Cloud
-MySQL · Firebase
+* Interfaces modernas e responsivas com React.
+* Aplicações web com componentes reutilizáveis.
+* Landing pages com foco em usabilidade e conversão.
+* Sistemas administrativos e interfaces de gerenciamento.
+* Integrações com APIs REST e serviços externos.
+* Aplicações com foco em organização, responsividade e experiência do usuário.
 
 ---
 
+## 🧩 Stack Principal
 
+### 🌐 Front-end
+
+HTML5 · CSS3 · JavaScript · React · Vite · CSS Modules · Tailwind CSS
+
+### 🔌 Integrações
+
+APIs REST · LocalStorage · WhatsApp · Mercado Pago · ViaCEP
+
+### 🗄️ Back-end & Banco de Dados
+
+PHP · MySQL  · Supabase
+
+### 🛠️ Ferramentas
+
+Git · GitHub · VS Code
+
+---
 
 ## 🧠 Projetos em Destaque
 
-🔹 Luxe Seoul Link
-Projeto com foco em design premium e experiência do usuário, demonstrando sua habilidade em interfaces modernas.
+### 🔹 Luxe Seoul — Site Institucional
 
-- Foco: UI/UX · Web Development · Frontend
+Site institucional desenvolvido com React, Vite, React Router e CSS Modules.
 
-🔹 VR Automotive Link
-Interface focada no setor automotivo, com design responsivo e visual arrojado.
+* Interface responsiva e componentizada.
+* Navegação entre múltiplas páginas.
+* Organização de componentes e estilos.
 
-- Foco: Responsividade · UI Developer · Front-End
+### 🔹 Portfólio Web
 
-🔹 Lumem Login Link
-Sistema de autenticação com foco em usabilidade e design limpo.
+Aplicação desenvolvida com React e CSS Modules para apresentar projetos e habilidades profissionais.
 
-- Foco: Formulários · Autenticação · UI/UX
+* Componentização.
+* Organização de estilos.
+* Design responsivo.
+
+### 🔹 Sabor Real — Sistema de Delivery
+
+Sistema de delivery desenvolvido com React, TypeScript, Node.js e Express.
+
+* Integração com Mercado Pago.
+* Consulta de endereços com ViaCEP.
+* Envio de pedidos pelo WhatsApp.
+* Painel administrativo.
+
+---
+
+## 💼 Experiência Profissional
+
+### Studio Lena — Desenvolvedora Web Freelancer | 2026
+
+* Desenvolvimento de site responsivo para desktop, tablet e dispositivos móveis.
+* Painel administrativo para gerenciamento de fotos e vídeos.
+* Carrossel dinâmico integrado ao Supabase.
+* Integração com WhatsApp.
+* Testes, publicação e suporte ao projeto.
+
+### 3D Guinchos — Desenvolvedora Web Freelancer | 2026
+
+* Desenvolvimento de landing page responsiva.
+* Implementação de contato direto pelo WhatsApp.
+* Estrutura otimizada para campanhas de Google Ads.
+* Desenvolvimento com foco em usabilidade e conversão.
 
 ---
 
 ## 📈 Foco Atual
 
-- Desenvolvimento de interfaces performáticas com foco em experiência do usuário (UX).
-
-- Integração de APIs em aplicações dinâmicas e sistemas administrativos.
-
-- Arquitetura de componentes reutilizáveis para escalabilidade de projetos Front-End.
-
-- Aprimoramento de design responsivo e acessibilidade para interfaces modernas.
-
-- Construção de sistemas funcionais que entregam valor direto para o negócio.
+* Desenvolvimento de aplicações com React e JavaScript.
+* Criação de interfaces responsivas e componentizadas.
+* Integração de APIs e serviços externos.
+* Organização e manutenção de código Front-End.
+* Aprimoramento contínuo em desenvolvimento web.
 
 ---
 
@@ -109,45 +137,35 @@ Sistema de autenticação com foco em usabilidade e design limpo.
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Barbara-larissa&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbara-larissa&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
+
 ---
 
-## 🎯 Aberto a Oportunidades
+## 🎯 Aberta a Oportunidades
 
-Front-End Developer
+* Desenvolvedora Front-End 
+* Desenvolvedora Web 
+* React Developer 
+* UI Developer
 
-UI Developer
-
-Web Developer
-
-Junior Front-End Developer
-
-🌍 Remoto / Brasil 
+🌍 Remoto / Brasil
 
 ---
 
 ## 💬 Contato
 
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/barbara-larissa">
+  <a href="https://www.linkedin.com/in/barbara-larissa/">
     <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- Email -->
   <a href="mailto:laribdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- WhatsApp -->
   <a href="https://wa.me/5543996818242">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
-
-
 ---
-
-
-
 
 <p align="center">
   <b>Construindo o futuro da web com foco em performance e experiência.</b>
