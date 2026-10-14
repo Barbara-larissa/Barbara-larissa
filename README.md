@@ -4,7 +4,7 @@
 ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Bárbara%20Larissa&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=54&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlign=50&descAlignY=62&animation=twinkling&color=0:000000,50:FF69B4,100:FF1493" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Bárbara%20Larissa&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=54&desc=Front-End%20Developer%20%7C%20UI%2FUX%20&descAlign=50&descAlignY=62&animation=twinkling&color=0:000000,50:FF69B4,100:FF1493" alt="Banner"/>
 </p>
 
 <p align="center">
