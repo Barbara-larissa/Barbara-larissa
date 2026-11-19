@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="156" height="44" viewBox="0 0 156 44" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <filter id="glow-pf" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="bg-pf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#281144"/><stop offset="1" stop-color="#0f0b24"/></linearGradient>
+  </defs>
+  <rect x="4" y="4" width="148" height="36" rx="18" fill="url(#bg-pf)" stroke="#ff2bd6" stroke-width="2" filter="url(#glow-pf)"/>
+  <g transform="translate(21, 13)" fill="none" stroke="#ff7ae6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="9" r="7.5"/><path d="M1.5 9h15M9 1.5a11.5 11.5 0 0 1 3 7.5 11.5 11.5 0 0 1-3 7.5 11.5 11.5 0 0 1-3-7.5 11.5 11.5 0 0 1 3-7.5z"/></g>
+  <text x="90" y="27" font-size="13" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="1.1">PORTFOLIO</text>
+</svg>
