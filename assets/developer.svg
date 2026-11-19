@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="550" viewBox="0 0 780 550" font-family="Consolas, &#39;Courier New&#39;, monospace">
+  <defs>
+    <filter id="glow-dev" x="-15%" y="-15%" width="130%" height="130%">
+      <feGaussianBlur stdDeviation="3.5" result="b" />
+      <feMerge><feMergeNode in="b" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <linearGradient id="border-dev" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff2bd6" />
+      <stop offset="0.5" stop-color="#a855f7" />
+      <stop offset="1" stop-color="#38bdf8" />
+    </linearGradient>
+    <linearGradient id="bg-dev" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#220d3b" />
+      <stop offset="1" stop-color="#0b081a" />
+    </linearGradient>
+  </defs>
+
+  <rect x="8" y="8" width="764" height="534" rx="24" fill="url(#bg-dev)" stroke="url(#border-dev)" stroke-width="3" filter="url(#glow-dev)" />
+  <rect x="18" y="18" width="744" height="514" rx="18" fill="none" stroke="#ff2bd6" stroke-opacity="0.25" />
+  <path d="M18 36 Q18 18 36 18 H744 Q762 18 762 36 V64 H18 Z" fill="#150826" />
+  <line x1="18" y1="64" x2="762" y2="64" stroke="url(#border-dev)" stroke-opacity="0.5" stroke-width="1.5" />
+
+  <circle cx="46" cy="41" r="7" fill="#ff2bd6" />
+  <circle cx="68" cy="41" r="7" fill="#facc15" />
+  <circle cx="90" cy="41" r="7" fill="#38bdf8" />
+
+  <rect x="315" y="29" width="24" height="24" rx="5" fill="#f7df1e" />
+  <text x="327" y="45" font-size="11.5" font-weight="900" fill="#000000" text-anchor="middle">JS</text>
+  <text x="415" y="47" font-family="&#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="0.8">developer.js</text>
+
+  <g font-size="14.5" fill="#7c69ad" text-anchor="end">
+    <text x="54" y="98">1</text>
+    <text x="54" y="124">2</text>
+    <text x="54" y="150">3</text>
+    <text x="54" y="176">4</text>
+    <text x="54" y="206">5</text>
+    <text x="54" y="232">6</text>
+    <text x="54" y="258">7</text>
+    <text x="54" y="284">8</text>
+    <text x="54" y="310">9</text>
+    <text x="54" y="340">10</text>
+    <text x="54" y="370">11</text>
+    <text x="54" y="396">12</text>
+    <text x="54" y="422">13</text>
+    <text x="54" y="452">14</text>
+    <text x="54" y="478">15</text>
+    <text x="54" y="504">16</text>
+  </g>
+
+  <g font-size="15.5">
+    <text x="76" y="98"><tspan fill="#ff2bd6" font-weight="700">const</tspan> <tspan fill="#38bdf8" font-weight="700">barbara</tspan> <tspan fill="#ffffff">=</tspan> <tspan fill="#facc15">{</tspan></text>
+    <text x="104" y="124"><tspan fill="#e879f9">nome:</tspan> <tspan fill="#4ade80">"Bárbara Larissa"</tspan><tspan fill="#ffffff">,</tspan></text>
+    <text x="104" y="150"><tspan fill="#e879f9">profissao:</tspan> <tspan fill="#4ade80">"Desenvolvedora Web"</tspan><tspan fill="#ffffff">,</tspan></text>
+    <text x="104" y="176"><tspan fill="#e879f9">formacao:</tspan> <tspan fill="#4ade80">"Análise e Desenvolvimento de Sistemas"</tspan><tspan fill="#ffffff">,</tspan></text>
+
+    <text x="104" y="206"><tspan fill="#e879f9">tecnologias:</tspan> <tspan fill="#38bdf8">[</tspan></text>
+    <text x="132" y="232"><tspan fill="#fb923c">"HTML5"</tspan><tspan fill="#ffffff">,</tspan> <tspan fill="#38bdf8">"CSS3"</tspan><tspan fill="#ffffff">,</tspan> <tspan fill="#facc15">"JavaScript"</tspan><tspan fill="#ffffff">,</tspan> <tspan fill="#60a5fa">"TypeScript"</tspan><tspan fill="#ffffff">,</tspan> <tspan fill="#22d3ee">"React"</tspan><tspan fill="#ffffff">,</tspan></text>
+    <text x="132" y="258"><tspan fill="#34d399">"Tailwind CSS"</tspan><tspan fill="#ffffff">,</tspan> <tspan fill="#4ade80">"Node.js"</tspan><tspan fill="#ffffff">,</tspan> <tspan fill="#c084fc">"Express"</tspan><tspan fill="#ffffff">,</tspan> <tspan fill="#a78bfa">"PHP"</tspan><tspan fill="#ffffff">,</tspan></text>
+    <text x="132" y="284"><tspan fill="#38bdf8">"MySQL"</tspan><tspan fill="#ffffff">,</tspan> <tspan fill="#fbbf24">"Firebase"</tspan><tspan fill="#ffffff">,</tspan> <tspan fill="#34d399">"Supabase"</tspan><tspan fill="#ffffff">,</tspan> <tspan fill="#f87171">"Git"</tspan><tspan fill="#ffffff">,</tspan> <tspan fill="#f472b6">"GitHub"</tspan></text>
+    <text x="104" y="310"><tspan fill="#38bdf8">]</tspan><tspan fill="#ffffff">,</tspan></text>
+
+    <text x="104" y="340"><tspan fill="#e879f9">experiencia:</tspan> <tspan fill="#4ade80">"Desenvolvimento Web Freelancer"</tspan><tspan fill="#ffffff">,</tspan></text>
+
+    <text x="104" y="370"><tspan fill="#e879f9">conhecimentos:</tspan> <tspan fill="#38bdf8">[</tspan></text>
+    <text x="132" y="396"><tspan fill="#f472b6">"APIs REST"</tspan><tspan fill="#ffffff">,</tspan> <tspan fill="#facc15">"Integrações"</tspan><tspan fill="#ffffff">,</tspan> <tspan fill="#38bdf8">"Banco de Dados"</tspan><tspan fill="#ffffff">,</tspan> <tspan fill="#4ade80">"UI/UX"</tspan><tspan fill="#ffffff">,</tspan> <tspan fill="#c084fc">"Testes"</tspan></text>
+    <text x="104" y="422"><tspan fill="#38bdf8">]</tspan><tspan fill="#ffffff">,</tspan></text>
+
+    <text x="104" y="452"><tspan fill="#e879f9">objetivo:</tspan> <tspan fill="#4ade80">"Desenvolvimento Front-End"</tspan><tspan fill="#ffffff">,</tspan></text>
+    <text x="104" y="478"><tspan fill="#e879f9">aprendendo:</tspan> <tspan fill="#facc15">"Sempre evoluindo"</tspan></text>
+
+    <text x="76" y="504"><tspan fill="#facc15">}</tspan><tspan fill="#ffffff">;</tspan>   <tspan fill="#38bdf8">console</tspan><tspan fill="#ffffff">.</tspan><tspan fill="#ff2bd6">log</tspan><tspan fill="#facc15">(</tspan><tspan fill="#4ade80">"Transformando ideias em soluções!"</tspan><tspan fill="#facc15">)</tspan><tspan fill="#ffffff">;</tspan></text>
+  </g>
+</svg>
