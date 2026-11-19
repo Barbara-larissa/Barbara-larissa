@@ -22,7 +22,9 @@
 <!-- BOTÕES DE CONTATO (CLICÁVEIS E COM BRILHO NEON) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/barbara-larissa/" target="_blank"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" /></a>
-  <a href="mailto:laribdev@gmail.com"><img src="./assets/btn-email.svg" alt="Email" /></a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=laribdev@gmail.com&su=Contato%20via%20GitHub" target="_blank">
+  <img src="./assets/btn-email.svg" alt="Email" />
+</a>
   <a href="https://wa.me/5543996818242" target="_blank"><img src="./assets/btn-whatsapp.svg" alt="WhatsApp" /></a>
   <a href="https://developer-portfolio-fawn-zeta.vercel.app" target="_blank"><img src="./assets/btn-portfolio.svg" alt="Portfolio" /></a>
   <a href="https://github.com/Barbara-larissa" target="_blank"><img src="./assets/btn-github.svg" alt="GitHub" /></a>
