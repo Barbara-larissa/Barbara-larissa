@@ -55,30 +55,46 @@
 <br/>
 
 <!-- PROJETOS EM DESTAQUE -->
+<!-- PROJETOS EM DESTAQUE -->
 <div align="center">
   <img src="./assets/titulo-projetos.svg" width="100%" alt="Projetos em Destaque" />
   <table align="center" border="0" cellpadding="6" cellspacing="0">
     <tr>
       <td width="205" align="center" valign="top">
-        <a href="https://www.sabordavovo.com/" target="_blank"><img src="./assets/vovo.png" width="195" height="105" alt="Sabor da Vovó" /></a><br/>
-        <a href="https://www.sabordavovo.com/" target="_blank"><img src="./assets/card-vovo.svg" width="205" alt="Card Sabor da Vovó" /></a>
+        <a href="https://www.sabordavovo.com/" target="_blank">
+          <img src="./assets/vovo.png" width="195" height="105" alt="Sabor da Vovó" />
+        </a><br/>
+        <a href="https://www.sabordavovo.com/" target="_blank">
+          <img src="./assets/card-vovo.svg" width="205" alt="Card Sabor da Vovó" />
+        </a>
       </td>
       <td width="205" align="center" valign="top">
-        <a href="https://3dguinchos.com.br/" target="_blank"><img src="./assets/guincho.png" width="195" height="105" alt="3D Guinchos" /></a><br/>
-        <a href="https://3dguinchos.com.br/" target="_blank"><img src="./assets/card-guincho.svg" width="205" alt="Card 3D Guinchos" /></a>
+        <a href="https://3dguinchos.com.br/" target="_blank">
+          <img src="./assets/guincho.png" width="195" height="105" alt="3D Guinchos" />
+        </a><br/>
+        <a href="https://3dguinchos.com.br/" target="_blank">
+          <img src="./assets/card-guincho.svg" width="205" alt="Card 3D Guinchos" />
+        </a>
       </td>
       <td width="205" align="center" valign="top">
-        <a href="https://www.freteemlondrina.com.br/" target="_blank"><img src="./assets/frete.png" width="195" height="105" alt="Fretes em Londrina" /></a><br/>
-        <a href="https://www.freteemlondrina.com.br/" target="_blank"><img src="./assets/card-frete.svg" width="205" alt="Card Fretes em Londrina" /></a>
+        <a href="https://www.freteemlondrina.com.br/" target="_blank">
+          <img src="./assets/frete.png" width="195" height="105" alt="Fretes em Londrina" />
+        </a><br/>
+        <a href="https://www.freteemlondrina.com.br/" target="_blank">
+          <img src="./assets/card-frete.svg" width="205" alt="Card Fretes em Londrina" />
+        </a>
       </td>
       <td width="205" align="center" valign="top">
-        <a href="https://studio-lena-cauassu.com.br/" target="_blank"><img src="./assets/lena.png" width="195" height="105" alt="Studio Lena" /></a><br/>
-        <a href="https://studio-lena-cauassu.com.br/" target="_blank"><img src="./assets/card-lena.svg" width="205" alt="Card Studio Lena" /></a>
+        <a href="https://studio-lena-cauassu.com.br/" target="_blank">
+          <img src="./assets/lena.png" width="195" height="105" alt="Studio Lena" />
+        </a><br/>
+        <a href="https://studio-lena-cauassu.com.br/" target="_blank">
+          <img src="./assets/card-lena.svg" width="205" alt="Card Studio Lena" />
+        </a>
       </td>
     </tr>
   </table>
 </div>
-
 <br/>
 
 <!-- ESTATÍSTICAS DO GITHUB -->
