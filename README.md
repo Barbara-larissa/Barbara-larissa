@@ -56,44 +56,49 @@
 
 <!-- PROJETOS EM DESTAQUE -->
 <!-- PROJETOS EM DESTAQUE -->
+<!-- PROJETOS EM DESTAQUE (SEM BORDA DE TABELA E ALINHADOS) -->
 <div align="center">
   <img src="./assets/titulo-projetos.svg" width="100%" alt="Projetos em Destaque" />
-  <table align="center" border="0" cellpadding="6" cellspacing="0">
-    <tr>
-      <td width="205" align="center" valign="top">
-        <a href="https://www.sabordavovo.com/" target="_blank">
-          <img src="./assets/vovo.png" width="195" height="105" alt="Sabor da Vovó" />
-        </a><br/>
-        <a href="https://www.sabordavovo.com/" target="_blank">
-          <img src="./assets/card-vovo.svg" width="205" alt="Card Sabor da Vovó" />
-        </a>
-      </td>
-      <td width="205" align="center" valign="top">
-        <a href="https://3dguinchos.com.br/" target="_blank">
-          <img src="./assets/guincho.png" width="195" height="105" alt="3D Guinchos" />
-        </a><br/>
-        <a href="https://3dguinchos.com.br/" target="_blank">
-          <img src="./assets/card-guincho.svg" width="205" alt="Card 3D Guinchos" />
-        </a>
-      </td>
-      <td width="205" align="center" valign="top">
-        <a href="https://www.freteemlondrina.com.br/" target="_blank">
-          <img src="./assets/frete.png" width="195" height="105" alt="Fretes em Londrina" />
-        </a><br/>
-        <a href="https://www.freteemlondrina.com.br/" target="_blank">
-          <img src="./assets/card-frete.svg" width="205" alt="Card Fretes em Londrina" />
-        </a>
-      </td>
-      <td width="205" align="center" valign="top">
-        <a href="https://studio-lena-cauassu.com.br/" target="_blank">
-          <img src="./assets/lena.png" width="195" height="105" alt="Studio Lena" />
-        </a><br/>
-        <a href="https://studio-lena-cauassu.com.br/" target="_blank">
-          <img src="./assets/card-lena.svg" width="205" alt="Card Studio Lena" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+  <br/><br/>
+
+  <!-- LINHA 1: CAPAS DOS PROJETOS -->
+  <p align="center">
+    <a href="https://www.sabordavovo.com/" target="_blank">
+      <img src="./assets/vovo.png" width="200" alt="Sabor da Vovó" />
+    </a>
+    &nbsp;
+    <a href="https://3dguinchos.com.br/" target="_blank">
+      <img src="./assets/guincho.png" width="200" alt="3D Guinchos" />
+    </a>
+    &nbsp;
+    <a href="https://www.freteemlondrina.com.br/" target="_blank">
+      <img src="./assets/frete.png" width="200" alt="Fretes em Londrina" />
+    </a>
+    &nbsp;
+    <a href="https://studio-lena-cauassu.com.br/" target="_blank">
+      <img src="./assets/lena.png" width="200" alt="Studio Lena" />
+    </a>
+  </p>
+
+  <!-- LINHA 2: CARDS NEON ALINHADOS NA MESMA ALTURA -->
+  <p align="center">
+    <a href="https://www.sabordavovo.com/" target="_blank">
+      <img src="./assets/card-vovo.svg" width="200" alt="Card Sabor da Vovó" />
+    </a>
+    &nbsp;
+    <a href="https://3dguinchos.com.br/" target="_blank">
+      <img src="./assets/card-guincho.svg" width="200" alt="Card 3D Guinchos" />
+    </a>
+    &nbsp;
+    <a href="https://www.freteemlondrina.com.br/" target="_blank">
+      <img src="./assets/card-frete.svg" width="200" alt="Card Fretes em Londrina" />
+    </a>
+    &nbsp;
+    <a href="https://studio-lena-cauassu.com.br/" target="_blank">
+      <img src="./assets/card-lena.svg" width="200" alt="Card Studio Lena" />
+    </a>
+  </p>
 </div>
 <br/>
 
@@ -151,16 +156,3 @@
 <br/>
 
 <!-- CONTATO FINAL (VAMOS CONVERSAR?) -->
-<div align="center">
-  <img src="./assets/titulo-chat.svg" width="100%" alt="Vamos conversar?" />
-  <p align="center">
-    <a href="https://www.linkedin.com/in/barbara-larissa/" target="_blank"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" /></a>
-    <a href="mailto:laribdev@gmail.com"><img src="./assets/btn-email.svg" alt="Email" /></a>
-    <a href="https://wa.me/5543996818242" target="_blank"><img src="./assets/btn-whatsapp.svg" alt="WhatsApp" /></a>
-    <a href="https://developer-portfolio-fawn-zeta.vercel.app" target="_blank"><img src="./assets/btn-portfolio.svg" alt="Portfolio" /></a>
-    <a href="https://github.com/Barbara-larissa" target="_blank"><img src="./assets/btn-github.svg" alt="GitHub" /></a>
-  </p>
-  <br/>
-  <img src="./assets/assinatura.svg" width="100%" alt="Assinatura" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:140826,50:A21CAF,100:FF2BD6" width="100%" alt="Footer" />
-</div>
