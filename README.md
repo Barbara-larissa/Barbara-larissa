@@ -98,21 +98,54 @@
 <br/>
 
 <!-- ESTATÍSTICAS DO GITHUB -->
+<!-- ESTATÍSTICAS DO GITHUB -->
 <div align="center">
   <img src="./assets/titulo-stats.svg" width="100%" alt="Estatísticas do GitHub" />
   <br/><br/>
   <table align="center" border="0" cellpadding="6" cellspacing="0">
     <tr>
       <td align="center">
-        <img height="175" src="https://github-readme-stats.vercel.app/api?username=Barbara-larissa&show_icons=true&bg_color=140826&title_color=FF2BD6&icon_color=FF7AE6&text_color=F1ECFF&border_color=FF2BD6&border_radius=16" alt="Estatísticas do GitHub" />
+        <img
+          height="175"
+          src="https://github-readme-stats.vercel.app/api?username=Barbara-larissa&show_icons=true&bg_color=140826&title_color=FF2BD6&icon_color=FF7AE6&text_color=F1ECFF&border_color=FF2BD6&border_radius=16"
+          alt="Estatísticas do GitHub"
+        />
       </td>
       <td align="center">
-        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbara-larissa&layout=compact&bg_color=140826&title_color=FF2BD6&text_color=F1ECFF&border_color=FF2BD6&border_radius=16" alt="Linguagens Mais Usadas" />
+        <img
+          height="175"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbara-larissa&layout=compact&bg_color=140826&title_color=FF2BD6&text_color=F1ECFF&border_color=FF2BD6&border_radius=16"
+          alt="Linguagens Mais Usadas"
+        />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Barbara-larissa&background=140826&border=FF2BD6&border_radius=16&ring=FF2BD6&fire=FF7AE6&currStreakLabel=FF2BD6&sideLabels=F1ECFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C4B5FD" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=Barbara-larissa&background=140826&border=FF2BD6&border_radius=16&ring=FF2BD6&fire=FF7AE6&currStreakLabel=FF2BD6&sideLabels=F1ECFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C4B5FD"
+    alt="GitHub Streak"
+  />
+</div>
+
+<br/>
+
+<!-- CONTATO FINAL (VAMOS CONVERSAR?) -->
+<div align="center">
+  <img src="./assets/titulo-chat.svg" width="100%" alt="Vamos conversar?" />
+  <p align="center">
+    <a href="https://www.linkedin.com/in/barbara-larissa/" target="_blank"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" /></a>
+    <a href="mailto:laribdev@gmail.com"><img src="./assets/btn-email.svg" alt="Email" /></a>
+    <a href="https://wa.me/5543996818242" target="_blank"><img src="./assets/btn-whatsapp.svg" alt="WhatsApp" /></a>
+    <a href="https://developer-portfolio-fawn-zeta.vercel.app" target="_blank"><img src="./assets/btn-portfolio.svg" alt="Portfolio" /></a>
+    <a href="https://github.com/Barbara-larissa" target="_blank"><img src="./assets/btn-github.svg" alt="GitHub" /></a>
+  </p>
+  <br/>
+  <img src="./assets/assinatura.svg" width="100%" alt="Assinatura" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:140826,50:A21CAF,100:FF2BD6"
+    width="100%"
+    alt="Footer"
+  />
 </div>
 
 <br/>
